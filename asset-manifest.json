@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ab3e605.chunk.css",
+    "main.js": "/static/js/main.d8a8eb33.chunk.js",
+    "main.js.map": "/static/js/main.d8a8eb33.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bdf90e09.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bdf90e09.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4d7a4b97.chunk.js": "/static/js/2.4d7a4b97.chunk.js",
+    "static/js/2.4d7a4b97.chunk.js.map": "/static/js/2.4d7a4b97.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cff6b3e85f10998eecfd9420c4b49fad.js": "/precache-manifest.cff6b3e85f10998eecfd9420c4b49fad.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.9ab3e605.chunk.css.map": "/static/css/main.9ab3e605.chunk.css.map",
+    "static/js/2.4d7a4b97.chunk.js.LICENSE.txt": "/static/js/2.4d7a4b97.chunk.js.LICENSE.txt",
+    "static/media/credit-card-regular.svg": "/static/media/credit-card-regular.c741f58e.svg",
+    "static/media/home-solid.svg": "/static/media/home-solid.fa2c07da.svg",
+    "static/media/minus-solid.svg": "/static/media/minus-solid.8503b4e4.svg",
+    "static/media/plus-solid.svg": "/static/media/plus-solid.b99e8ee2.svg",
+    "static/media/shopping-cart-solid.svg": "/static/media/shopping-cart-solid.8bf1af37.svg",
+    "static/media/store-solid.svg": "/static/media/store-solid.fd89e316.svg",
+    "static/media/Home.css": "/static/media/taylor-kiser-EvoIiaIVRzU-unsplash.bf0aabb5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdf90e09.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4d7a4b97.chunk.js",
+    "static/css/main.9ab3e605.chunk.css",
+    "static/js/main.d8a8eb33.chunk.js"
+  ]
+}
